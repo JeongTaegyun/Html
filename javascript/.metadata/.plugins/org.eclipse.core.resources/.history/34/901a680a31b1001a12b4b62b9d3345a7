@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src="js/jquery-3.5.1.js"></script>
+</head>
+<body>
+	<button id="btn1">click</button>
+	<button id="btn2">ablclick</button>
+	<p>내용</p>
+	<a href="#prev">버튼</a>
+</body>
+</html>

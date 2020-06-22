@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	onload = function(){ // 윈도우 로드 이벤트에 따른 이벤트 핸들러를 정의한다.
+		
+	}
+	document.getElementById("selector").style.color="green";
+</script>
+</head>
+<body>
+
+	<h1 id="selector">선택자</h1>
+
+</body>
+</html>

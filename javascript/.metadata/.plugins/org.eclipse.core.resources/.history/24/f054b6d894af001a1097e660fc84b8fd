@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+</head>
+<body>
+
+	<h1 id="selector">선택자</h1>
+	<script type="text/javascript">
+	document.getElementById("selector").style.color="red";
+	</script>
+
+</body>
+</html>

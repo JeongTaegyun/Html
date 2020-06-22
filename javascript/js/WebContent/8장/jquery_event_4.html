@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src="js/jquery-3.5.1.js"></script>
+<script type="text/javascript">
+	//<![CDATA[
+	$(function() {
+		$("#btn1").mouseover(function() {
+			$("p").css("background-color", "yellow");
+		});
+		$("#btn1").mouseout(function() {
+			$("p").css("background-color", "purple");
+		});
+		$("#btn2").hover(function() {
+			$("p").css("background-color", "yellow");
+		}, function() {
+			$("p").css("background-color", "purple");
+		});
+	});
+	//]]>
+</script>
+</head>
+<body>
+	<button id="btn1">mouseover/out</button>
+	<button id="btn2">hover</button>
+	<p>내용</p>
+</body>
+</html>

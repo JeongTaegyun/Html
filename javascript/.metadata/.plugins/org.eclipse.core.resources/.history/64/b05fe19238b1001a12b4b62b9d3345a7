@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src="js/jquery-3.5.1.js"></script>
+<script type="text/javascript">
+	$(function() {
+		$("#user_name").focus(); //focus를 강제 발생
+		$("#user_id").focus(function() { //focus가 이동되었을 때
+			$(this).val("");
+		});
+		$("#user_id").blur(function() { //focus가 사라졌을 때
+			$(this).val("아이디 입력");
+		});
+	});
+</script>
+</head>
+<body>
+	<p>
+		<input type="text" name="user_name" id="user_name" />
+	</p>
+	<p>
+		<input type="text" name="user_id" id="user_id" value="아이디 입력" />
+	</p>
+</body>
+</html>

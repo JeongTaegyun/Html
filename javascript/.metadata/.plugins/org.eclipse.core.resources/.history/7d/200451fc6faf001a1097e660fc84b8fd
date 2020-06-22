@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	var t = "Hello Thank you good luck to you";
+	document.write(t.charAt(16), "<br />");
+	document.write(t.indexOf("you"), "<br />");
+	document.write(t.indexOf("you",16), "<br />");
+	document.write(t.lastIndexOf("you"), "<br />");
+	document.write(t.lastIndexOf("you",25), "<br />");
+	document.write(t.match("lucker"), "<br />");
+	document.write(t.search("your"), "<br />");
+	document.write(t.substr(21,4), "<br />");
+	document.write(t.substring(6,12), "<br />");
+	document.write(t.replace("you","me"), "<br />");
+</script>
+</head>
+<body>
+
+</body>
+</html>

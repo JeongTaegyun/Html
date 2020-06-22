@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	var d = [ 30, "홍길동", true];
+	document.write(d[0], "<br />");
+	document.write(d[1], "<br />");
+	document.write(d[2], "<br />");
+</script>
+</head>
+<body>
+
+</body>
+</html>

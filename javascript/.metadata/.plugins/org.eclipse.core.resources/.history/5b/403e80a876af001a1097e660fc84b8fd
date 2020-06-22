@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	var userName = prompt("당신의 이름은?");
+	reg1 = /^[가-힣]{2,5}$/;
+	while(true){
+		if(reg1.test(userName))
+			break;
+		alert("이름 입력 형식이 잘못되었습니다!");
+		userName = prompt("당신의 이름은?");
+	}
+</script>
+</head>
+<body>
+
+</body>
+</html>
