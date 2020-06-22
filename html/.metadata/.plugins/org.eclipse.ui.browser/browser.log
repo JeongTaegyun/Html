@@ -1,0 +1,8 @@
+
+6월 11, 2020 15:40:59.09 NEW SESSION
+6월 11, 2020 15:40:59.09 [1556:4148:0611/154059.073:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.93 s for first_image_paint 0.847 s
+6월 11, 2020 15:41:00.23 [1556:4148:0611/154100.235:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.93 s for first_image_paint 0.847 s
+6월 11, 2020 15:41:06.13 [1556:4148:0611/154106.131:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.93 s for first_image_paint 0.847 s
+6월 11, 2020 15:41:07.53 [1556:4148:0611/154107.532:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.93 s for first_image_paint 0.847 s
+6월 11, 2020 16:02:31.87 [1556:4148:0611/160231.879:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.93 s for first_image_paint 0.847 s
+6월 11, 2020 16:11:09.01 [1556:4148:0611/161109.016:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.93 s for first_image_paint 0.847 s

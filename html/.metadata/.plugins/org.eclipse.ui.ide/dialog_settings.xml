@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\dev\workspace\html\15"/>
+			<item value="D:\dev\workspace\html\14"/>
+			<item value="D:\dev\workspace\html\13"/>
+			<item value="D:\dev\workspace\html\12"/>
+			<item value="D:\dev\workspace\html\11"/>
+			<item value="D:\dev\workspace\html\10"/>
+			<item value="D:\dev\workspace\html\09"/>
+			<item value="D:\dev\workspace\html\08"/>
+			<item value="D:\dev\workspace\html\adminlte-2-4-0-rc"/>
+			<item value="D:\dev\workspace\html\07"/>
+			<item value="D:\dev\workspace\html\06"/>
+			<item value="D:\dev\workspace\html\05"/>
+			<item value="D:\dev\workspace\html\04"/>
+			<item value="D:\dev\workspace\html\03"/>
+			<item value="D:\dev\workspace\html\02"/>
+			<item value="D:\dev\workspace\html\01"/>
+			<item value="D:\dev\workspace\html"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="171"/>
+		<item key="DIALOG_Y_ORIGIN" value="333"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>

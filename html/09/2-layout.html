@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <title>2단 레이아웃</title>
+    <style>
+    	div{
+    		border: 1px solid #ccc;
+    	}
+    	#container{
+    		width: 960px;
+    		padding: 20px;
+    		margin: 0 auto;
+    	}
+    	
+    	#sidebar1{
+    		float: left;
+    		width: 150px;
+    		padding: 20px;
+    		margin-right:20px;
+    		margin-bottom: 20px;
+    		
+    	}
+    	#header{
+    		padding: 20px;
+    		margin-bottom: 20px;
+    	}
+    	#sidebar2{
+    		float: right;
+    		width: 150px;
+    		padding: 20px;
+    		
+    	}
+    	
+    	#contents{
+    		float: left;
+    		width: 490px;
+    		padding: 20px;
+    		margin-bottom: 20px;
+    	}
+    	#footer{
+    		clear: both;
+    		padding: 20px;
+    	}
+    </style>
+</head>
+<body>
+
+<div id="container">
+	<div id="header">
+		<h1>사이트 제목</h1>
+	</div>
+	<div id="sidebar1">
+		<h2>사이드 바</h2>
+		<ul>
+			<li>항목1</li>
+			<li>항목2</li>
+			<li>항목3</li>
+			<li>항목4</li>
+		</ul>
+	</div>
+	<div id="contents">
+		<h2>본문</h2>
+		<p>재산권의 행사는 공공복리에 적합하도록 하여야 한다.</p>
+		<p>대통력의 임기가 만료되는 때에...</p>
+	</div>
+	<div id="sidebar2">
+		<h2>사이드바</h2>
+		<ul>
+			<li>항목1</li>
+			<li>항목2</li>
+			<li>항목3</li>
+			<li>항목4</li>
+		</ul>
+	</div>
+	<div id="footer">
+		<h2>푸터</h2>
+		<p>Copyright@2016 hongkildong.com</p>
+		<p>연락처: 02-43430-3432</p>
+	</div>
+</div>
+
+</body>
+</html>
